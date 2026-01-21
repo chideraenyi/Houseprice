@@ -1,0 +1,6 @@
+Name: Chidera Juanita Enyi
+Matric Number: 23AG032707
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Joblib
+Live URL: LIVE_URL
+GitHub Repository Link: GITHUB_LINK
