@@ -1,0 +1,6 @@
+Name: Chidera Juanita Enyi
+Matric Number: YOUR_MATRIC_NO
+Machine Learning Algorithm Used: Linear Regression
+Model Persistence Method Used: Joblib
+Live URL: https://your-deployed-link.com
+GitHub Repository Link: https://github.com/yourusername/HousePrice_Project
